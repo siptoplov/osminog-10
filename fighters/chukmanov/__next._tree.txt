@@ -1,4 +1,4 @@
-:HL["/osminog-10/_next/static/chunks/1mk0rsfothav4.css","style"]
+:HL["/osminog-10/_next/static/chunks/3allztx0kg_3g.css","style"]
 :HL["/osminog-10/_next/static/media/manrope_cyrillic_wght_normal.p.1hmx3sz6swr8m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/osminog-10/_next/static/media/sofia_sans_extra_condensed_cyrillic_wght_italic.p.0q-skn6d7gjgn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/osminog-10/_next/static/media/sofia_sans_extra_condensed_cyrillic_wght_normal.p.38yk54g5v59dc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"chukmanov","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"fighters","h":131136,"c":"$Q2"}]]
-0:{"b":"vNaKQkwvgJcRF7mStvJv6","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"qmLm00quzOhRdSCSTClPT","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
