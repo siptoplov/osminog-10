@@ -14,4 +14,4 @@ NEXT_PUBLIC_BASE_PATH=/osminog-10 NEXT_PUBLIC_SITE_URL=https://siptoplov.github.
 
 Формы заявок на GitHub Pages работают в запасном режиме (текст для Direct): серверной части на Pages нет. Приём заявок через Telegram-бота — `source/public/api/apply.php` (для обычного хостинга с PHP) или `source/netlify/functions/apply.mts` (для Netlify).
 
-Предыдущая версия сайта сохранена в теге `backup-old-site-2026-11-05`.
+Предыдущая версия сайта сохранена в ветке `backup-old-site`.
