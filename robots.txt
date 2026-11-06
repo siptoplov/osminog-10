@@ -1,2 +1,21 @@
-User-agent: *
+User-Agent: *
 Allow: /
+Disallow: /me/
+
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: Claude-User
+User-Agent: Claude-SearchBot
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: YandexAdditional
+User-Agent: YandexAdditionalBot
+Allow: /
+Disallow: /me/
+
+Host: https://siptoplov.github.io/osminog-10
+Sitemap: https://siptoplov.github.io/osminog-10/sitemap.xml
